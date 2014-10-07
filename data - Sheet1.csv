@@ -1,0 +1,129 @@
+Code	cofoc	classification	Service and function	Total
+101	Executive and Legistative organs, financial, fiscal affairs and external affairs 	General Public Service	President	211036000
+102	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	Deputy President	31320000
+202	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	Constituent Assembly / Legislature - Parliament	817448000
+206	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	Commission for Investigation of Abuse of Authority	273821000
+208	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	Office of the Auditor General	445956000
+301	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	Prime Minister and Council of Minister's Office	3413761000
+305	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	Ministry of Finance	7030180000
+326	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	Ministry of Foreign Affairs	2306791000
+347	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	MInistry of Urban Development	100239000
+352	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	Ministry of Cooperative and poverty Alleviation	292695000
+355	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	Ministry of Federal Affairs,Constituent Assembly,Parliamentary	0
+356	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	Ministry of General Administration	31572000
+365	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	Ministry of Federal Affairs and Local Development	275386000
+501	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	MOF Policy Financing	1000000000
+503	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	MOF External Debt Service (Multilateral)	17345678000
+504	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	MOF External Debt Service (Bilateral)	4382797000
+601	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	MOF Staff Benifits and Retirement Benefits	29138150000
+602	Executive and Legistative organs, financial, fiscal affairs and external affairs	General Public Service	MOF Miscellaneous	16804177000
+210	General Service	General Public Service	Public Service Commission	386377000
+325	General Service	General Public Service	Ministry of Culture, Tourism and Civil Aviation	137364000
+326	General Service	General Public Service	Ministry of Foreign Affairs	346479000
+337	General Service	General Public Service	Ministry of Physical Infrastructure and Transport	0
+347	General Service	General Public Service	MInistry of Urban Development	380632000
+356	General Service	General Public Service	Ministry of General Administration	739858000
+391	General Service	General Public Service	National Planning Commission Secreterate	785123000
+301	R&D General public services	General Public Service	Prime Minister and Council of Minister's Office	10793000
+305	R&D General public services	General Public Service	Ministry of Finance	15588000
+212	General public services n.e.c.	General Public Service	Election Commission	379172000
+214	General public services n.e.c.	General Public Service	National Human Rights Commission	118671000
+314	General public services n.e.c.	General Public Service	Ministry of Home	577388000
+337	General public services n.e.c.	General Public Service	Ministry of Physical Infrastructure and Transport	55514000
+349	General public services n.e.c.	General Public Service	Ministry of Peace & Reconstruction	100000000
+365	General public services n.e.c.	General Public Service	Ministry of Federal Affairs and Local Development	70000000
+501	General public services n.e.c.	General Public Service	MOF Policy Financing	133780000
+502	Public debt transactions	General Public Service	MOF Domestic Debt Service	39333282000
+365	Transfers of a general character between levels of government	General Public Service	Ministry of Federal Affairs and Local Development	13260928000
+307	Military Defence	DEFENCE	Ministry of Industry	310384000
+345	Military Defence	DEFENCE	Ministry of Defence	27086764000
+314	Civil defence	DEFENCE	Ministry of Home	70000000
+501	Civil defence	DEFENCE	MOF Policy Financing	1761150000
+347	Defence n.e.c.	DEFENCE	Ministry of Urban Development	75064000
+314	Police Service 	PUBLIC ORDER AND SAFETY	Ministry of Home	31185655000
+314	Fire-protection services	PUBLIC ORDER AND SAFETY	Ministry of Home	6082000
+204	Law courts	PUBLIC ORDER AND SAFETY	Courts	3320669000
+216	Law courts	PUBLIC ORDER AND SAFETY	Office of the Attorney General	558524000
+218	Law courts	PUBLIC ORDER AND SAFETY	 Council of Justice	24131000
+311	Law courts	PUBLIC ORDER AND SAFETY	Ministry of Law,  Justice,  Constituent Assembly and Parliamentary	131810000
+371	Law courts	PUBLIC ORDER AND SAFETY	 Ministry of Labour and Employment	8124000
+314	 Prisons	PUBLIC ORDER AND SAFETY	 Ministry of Home	1004361000
+301	 Public order and safety n.e.c.	PUBLIC ORDER AND SAFETY	 Prime Minister and Council of Minister's Office	1497565000
+314	 Public order and safety n.e.c.	PUBLIC ORDER AND SAFETY	 Ministry of Home	2373904000
+349	 Public order and safety n.e.c.	PUBLIC ORDER AND SAFETY	 Ministry of Peace & Reconstruction	4599728000
+301	General economic, commercial and labour affairs	Economic Affairs	 Prime Minister and Council of Minister's Office	127953000
+330	General economic, commercial and labour affairs	Economic Affairs	 Ministry of Commerce and Supply	1143415000
+352	General economic, commercial and labour affairs	Economic Affairs	 Ministry of Cooperative and poverty Alleviation	294439000
+365	General economic, commercial and labour affairs	Economic Affairs	 Ministry of Federal Affairs and Local Development	11610343000
+371	General economic, commercial and labour affairs	Economic Affairs	 Ministry of Labour and Employment	742078000
+312	" Agriculture, forestry, fishing and hunting"""	Economic Affairs	 Ministry of Agriculture Development	21339284000
+329	" Agriculture, forestry, fishing and hunting"""	Economic Affairs	Ministry of Forestry and Soil Conservation	8550294000
+336	" Agriculture, forestry, fishing and hunting"""	Economic Affairs	Ministry of Land Reforms and Management	3104593000
+352	" Agriculture, forestry, fishing and hunting"""	Economic Affairs	Ministry of Cooperative and poverty Alleviation	368939000
+357	" Agriculture, forestry, fishing and hunting"""	Economic Affairs	Ministry of Irrigation	11258197000
+365	" Agriculture, forestry, fishing and hunting"""	Economic Affairs	Ministry of Federal Affairs and Local Development	1001602000
+501	" Agriculture, forestry, fishing and hunting"""	Economic Affairs	MOF Policy Financing	500000000
+307	 Fuel and energy	Economic Affairs	Ministry of Industry	48484000
+308	 Fuel and energy	Economic Affairs	Ministry of Energy	1165492000
+331	 Fuel and energy	Economic Affairs	Ministry of  Science Technology and Environment	3744560000
+501	 Fuel and energy	Economic Affairs	MOF Policy Financing	25033414000
+307	Mining,  manufacturing and construction	Economic Affairs	Ministry of Industry	74483000
+337	Mining,  manufacturing and construction	Economic Affairs	Ministry of Physical Infrastructure and Transport	1320000000
+337	Transport	Economic Affairs	Ministry of Physical Infrastructure and Transport	33901282000
+347	Transport	Economic Affairs	MInistry of Urban Development	670798000
+365	Transport	Economic Affairs	Ministry of Federal Affairs and Local Development	6121281000
+501	Transport	Economic Affairs	MOF Policy Financing	1315000000
+332	Communication	Economic Affairs	Ministry of Science & Technology	0
+358	Communication	Economic Affairs	Ministry of Information and Communications	3408195000
+501	Communication	Economic Affairs	MOF Policy Financing	240000000
+307	Other industries	Economic Affairs	Ministry of Industry	2815326000
+312	Other industries	Economic Affairs	Ministry of Agriculture Development	63843000
+325	Other industries	Economic Affairs	Ministry of Cultur Tourism and Civil Aviation	1218978000
+329	Other industries	Economic Affairs	Ministry of Forestry and Soil Conservation	37300000
+308	R&D Economic affairs	Economic Affairs	Ministry of Energy	500725000
+357	R&D Economic affairs	Economic Affairs	Ministry of Irrigation	297269000
+305	Economic affairs n.e.c.	Economic Affairs	Ministry of Finance	59222000
+501	Economic affairs n.e.c.	Economic Affairs	MOF Policy Financing	132000000
+347	Waste Management	 ENVIRONMENTAL PROTECTION	MInistry of Urban Development	335499000
+501	Waste Management	 ENVIRONMENTAL PROTECTION	MOF Policy Financing	2028100000
+347	 Waste water management	 ENVIRONMENTAL PROTECTION	MInistry of Urban Development	173519000
+357	 Waste water management	 ENVIRONMENTAL PROTECTION	Ministry of Irrigation	1010080000
+329	 Protection of biodiversity and landscape	 ENVIRONMENTAL PROTECTION	Ministry of Forestry and Soil Conservation	31443000
+501	 R&D Environmental protection	 ENVIRONMENTAL PROTECTION	MOF Policy Financing	12000000
+329	 Environmental protection n.e.c.	 ENVIRONMENTAL PROTECTION	Ministry of Forestry and Soil Conservation	12000000
+331	 Environmental protection n.e.c.	 ENVIRONMENTAL PROTECTION	Ministry of  Science Technology and Environment	1428207000
+347	 Environmental protection n.e.c.	 ENVIRONMENTAL PROTECTION	MInistry of Urban Development	2650426000
+365	 Environmental protection n.e.c.	 ENVIRONMENTAL PROTECTION	Ministry of Federal Affairs and Local Development	0
+347	 Housing development	Housing and Commnity Amenities	MInistry of Urban Development	2871439000
+501	 Housing development	Housing and Commnity Amenities	MOF Policy Financing	600000000
+365	 Community development	Housing and Commnity Amenities	Ministry of Federal Affairs and Local Development	0
+347	  Water supply	Housing and Commnity Amenities	MInistry of Urban Development	11015494000
+365	  Water supply	Housing and Commnity Amenities	Ministry of Federal Affairs and Local Development	580320000
+501	  Water supply	Housing and Commnity Amenities	MOF Policy Financing	1459432000
+365	 Housing and community amenities n.e.c.	Housing and Commnity Amenities	Ministry of Federal Affairs and Local Development	1459877000
+370	Medical products, appliances and equipment	HEALTH	Ministry of Health and Population	1128611000
+330	 Out-patient services	HEALTH	Ministry of Commerce and Supply	130000000
+370	 Out-patient services	HEALTH	Ministry of Health and Population	4506294000
+314	 Hospital services	HEALTH	Ministry of Home	346934000
+345	 Hospital services	HEALTH	Ministry of Defence	489779000
+370	 Hospital services	HEALTH	Ministry of Health and Population	5831621000
+601	 Hospital services	HEALTH	MOF Staff Benifits and Retirement Benefits	2500000000
+370	 Public health services	HEALTH	Ministry of Health and Population	15023734000
+370	 R&D Health	HEALTH	Ministry of Health and Population	3742728000
+343	 Recreational and sporting services	RECREATION,CULTURE AND RELIGION	Ministry of Youth and Sports	1265767000
+325	 Cultural services	RECREATION,CULTURE AND RELIGION	Ministry of Culture,Tourism and Civil Aviation	1485136000
+365	 Cultural services	RECREATION,CULTURE AND RELIGION	Ministry of Federal Affairs and Local Development	63400000
+358	 Broadcasting and publishing services	RECREATION,CULTURE AND RELIGION	Ministry of Information and Communications	471155000
+350	 Pre-primary and primary education	EDUCATION	Ministry of Education	26410007000
+350	 Secondary education	EDUCATION	Ministry of Education	13505396000
+350	 Education not definable by level	EDUCATION	Ministry of Education	26165369000
+350	 Subsidiary services to education	EDUCATION	Ministry of Education	13824244000
+350	 Education n.e.c.	EDUCATION	Ministry of Education	1053070000
+501	 Survivors	SOCIAL PROTECTION	MOF Policy Financing	1991565000
+365	 Family and children	SOCIAL PROTECTION	Ministry of Federal Affairs and Local Development	590600000
+370	 Family and children	SOCIAL PROTECTION	Ministry of Health and Population	199208000
+301	 Social exclusion n.e.c.	SOCIAL PROTECTION	Prime Minister and Council of Minister's Office	28573000
+365	 Social exclusion n.e.c.	SOCIAL PROTECTION	Ministry of Federal Affairs and Local Development	11509054000
+371	 R&D Social protection	SOCIAL PROTECTION	Ministry of Labour and Employment	90469000
+340	 Social protection n.e.c.	SOCIAL PROTECTION	Ministry of Women, Children & Social Welfare	1584666000
+349	 Social protection n.e.c.	SOCIAL PROTECTION	Ministry of Peace & Reconstruction	100000000
